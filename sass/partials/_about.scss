@@ -9,12 +9,12 @@
     text-align: center;
 
     article {
-        border: 1px solid black;
-        width: auto;
-        margin: 0px auto;
-        box-shadow: 10px 7px 114px 5px rgb(0 0 0 / 75%);
-        -webkit-box-shadow: 10px 7px 114px 5px rgb(0 0 0 / 75%);
-        -moz-box-shadow: 10px 7px 114px 5px rgba(0,0,0,0.75);
+        // border: 1px solid black;
+        // width: auto;
+        // margin: 0px auto;
+        // box-shadow: 10px 7px 114px 5px rgb(0 0 0 / 75%);
+        // -webkit-box-shadow: 10px 7px 114px 5px rgb(0 0 0 / 75%);
+        // -moz-box-shadow: 10px 7px 114px 5px rgba(0,0,0,0.75);
         }
 
         .grid_travel_col_1 {
@@ -43,11 +43,11 @@
             .about_travel_buybutton {
 
                     h2 {
-                        padding: 30px;
+                        padding: 15px;
                         font-weight: bold;
                     }
                     h3 {
-                        padding: 40px;
+                        padding: 15px;
                     }
                     p {
                         padding: 10px 120px;
@@ -66,12 +66,12 @@ p {
     .grid_container_about  {
 
         article{
-            border: 1px solid black;
-            width: auto;
-            margin: 0px auto;
-            box-shadow: 10px 7px 114px 5px rgba(0,0,0,0.75);
-            -webkit-box-shadow: 10px 7px 114px 5px rgba(0,0,0,0.75);
-            -moz-box-shadow: 10px 7px 114px 5px rgba(0,0,0,0.75);
+            // border: 1px solid black;
+            // width: auto;
+            // margin: 0px auto;
+            // box-shadow: 10px 7px 114px 5px rgba(0,0,0,0.75);
+            // -webkit-box-shadow: 10px 7px 114px 5px rgba(0,0,0,0.75);
+            // -moz-box-shadow: 10px 7px 114px 5px rgba(0,0,0,0.75);
 
             div{
                 .about_img{
@@ -88,7 +88,7 @@ p {
 
             .about_travel_buybutton {
                 p {
-                    padding: 20px 39px;
+                    padding: 20px 0px;
                 }
             }
         }
